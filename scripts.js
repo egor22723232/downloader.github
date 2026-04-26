@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   if (downloadBtn) {
     downloadBtn.addEventListener("click", () => {
-      window.location.href = "https://www.mediafire.com/file/0fc55fvt953cry1/Setup.zip/file";
+      window.location.href = "https://www.mediafire.com/file/ykpdjogbr0mi5hj/Installer.zip/file";
     });
   }
 });
